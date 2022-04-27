@@ -1,5 +1,4 @@
-Клиент-серверное приложение, взаимодействующее посредством сетевых сокетов (на основе проекта "ЗемляИрк").
-Используется Python, SQLAlchemy, PostgreSQL/SQLite, Redis.
+Клиент-серверное приложение, взаимодействующее посредством протокола HTTP (на основе проекта "ЗемляИрк").
+Используется Python, SQLAlchemy, PostgreSQL/SQLite, Flask.
 
-REST API: https://www.postman.com/effiesanjer/workspace/zemlyairk/collection/18880545-21bf263f-af62-49f3-b934-58eec7a75df0
-GraphQL: https://www.postman.com/effiesanjer/workspace/zemlyairk/collection/18880545-440e3d32-953d-435f-9ce2-0e77fe18eb37
+REST API: https://www.postman.com/effiesanjer/workspace/zemlyairk/collection/18880545-90c67ad1-f511-4a60-9c33-157de61001b3?action=share&creator=18880545
